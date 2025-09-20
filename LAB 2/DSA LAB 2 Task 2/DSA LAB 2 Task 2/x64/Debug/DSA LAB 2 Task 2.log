@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2 Task 2\main.cpp(11,17): warning C4305: 'argument': truncation from 'double' to 'Arraytype'
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2 Task 2\main.cpp(11,17): warning C4305:         with
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2 Task 2\main.cpp(11,17): warning C4305:         [
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2 Task 2\main.cpp(11,17): warning C4305:             Arraytype=float
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2 Task 2\main.cpp(11,17): warning C4305:         ]
+  DSA LAB 2 Task 2.vcxproj -> C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2 Task 2\x64\Debug\DSA LAB 2 Task 2.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2\main.cpp(11,22): warning C4305: 'argument': truncation from 'double' to 'Itemtype'
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2\main.cpp(11,22): warning C4305:         with
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2\main.cpp(11,22): warning C4305:         [
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2\main.cpp(11,22): warning C4305:             Itemtype=float
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2\main.cpp(11,22): warning C4305:         ]
+  DSA LAB 2.vcxproj -> C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 2\x64\Debug\DSA LAB 2.exe
