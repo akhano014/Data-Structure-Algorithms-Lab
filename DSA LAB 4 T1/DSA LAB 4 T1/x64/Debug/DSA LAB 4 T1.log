@@ -1,0 +1,5 @@
+﻿  Queue.cpp
+C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 4 T1\Queue.cpp(80,5): error C2039: 'reversenumber': is not a member of 'Que<int>'
+      C:\Users\Younas\OneDrive - Higher Education Commission\C++ Projects\DSA LAB 4 T1\Queue.h(3,7):
+      see declaration of 'Que<int>'
+  
